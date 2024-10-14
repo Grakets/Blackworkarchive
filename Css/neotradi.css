@@ -1,0 +1,29 @@
+body{
+    font-family: verdana;
+    background: url("../Imagenes/Banner3.jpg");
+    background-repeat: repeat;
+}
+
+h1, h2{
+    color: rgb(72, 22, 187);
+}
+h3,li,td,br{
+    color: rgb(231, 228, 238);
+}
+
+h5{
+    color: purple;
+}
+
+li,b,p,td,th{
+    color: rgb(255, 255, 255);
+}
+
+.tres{
+    background: #29043a;
+    width: 52%;
+    margin: 20px 325px;
+    padding: 10px 20px;
+    border-radius: 40px;
+
+}
